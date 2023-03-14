@@ -12,5 +12,5 @@ Client is built using Unity as a webGL build.
 - this allows hassle-free connection to most wallets
 - since the build size is relatively small, it allows to start playing within seconds after clicking the link (no istalls etc).
 
-##Anchor
+## Anchor
 On chain program fully controls the game state, by handling player actions and storing the player state.

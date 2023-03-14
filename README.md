@@ -1,5 +1,5 @@
 # grizzlython-space-frontier
-# encodeXsolana
+
 Space Frontier Game
 
 # Idea

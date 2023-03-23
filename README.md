@@ -2,6 +2,13 @@
 
 Space Frontier Game
 
+# Links
+Website:
+https://about.space-frontier.link/
+
+Demo:
+https://demo.space-frontier.link/index.html
+
 # Idea
 The game is a mix of classic RPG games and a city builder mechanics.
 The players role is to manage a small settlement and optimise, expand and maintain it, so that it can thrive and eventually allow to yield some rewards.
